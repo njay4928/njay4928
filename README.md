@@ -1,4 +1,4 @@
-Hi 👋 My name is Navindu Jayatilake
+Hi I'm Navindu Jayatilake 👋
 ===================================
 
 DevOps Engineer
